@@ -6,4 +6,6 @@ See [editor on GitHub](https://github.com/klebster2/kleber.github.io/edit/gh-pag
 
 [perplexity-toolkit](https://github.com/klebster2/perplexity-toolkit)
 
+https://github.com/klebster2/perplexity-toolkit/blob/master/gutenberg_example.gif
+
 [vimrc](https://github.com/klebster2/myvimrc)
