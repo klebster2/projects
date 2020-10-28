@@ -2,9 +2,7 @@
 
 ## language modelling
 
-[(character) perplexity-toolkit](https://github.com/klebster2/perplexity-toolkit)
-
-![gutenberg_example](https://github.com/klebster2/perplexity-toolkit/blob/master/gutenberg_example.gif "An example of generating characters using a 10-gram gutenberg model")
+[chargram-model](https://github.com/klebster2/chargram-model)
 
 ## vim
 
