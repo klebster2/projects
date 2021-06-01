@@ -2,7 +2,7 @@
 
 ## language modelling
 
-I built a chargram language model with a classmate for Accelerated Natural Language Processing. Find that project [here](https://github.com/klebster2/chargram-model).
+I built a chargram language model with a classmate for the Accelerated Natural Language Processing course we had in the Fall of 2018. Find that project [here](https://github.com/klebster2/chargram-model).
 
 A sped up example of generation is shown below:
 
