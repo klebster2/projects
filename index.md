@@ -10,9 +10,9 @@ A sped up example of generation is shown below:
 
 ## myvimrc
 
-I <3 vim. See myvimrc project [here](https://github.com/klebster2/myvimrc)
+I use ![Vim logo](https://images.wikia.com/vim/images/8/89/Wiki-wordmark.png "") a lot.
 
-![Vim logo](https://images.wikia.com/vim/images/8/89/Wiki-wordmark.png "")
+See myvimrc project [here](https://github.com/klebster2/myvimrc)
 
 ## dotfiles
 
