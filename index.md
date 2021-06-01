@@ -2,8 +2,13 @@
 
 ## language modelling
 
-[chargram-model](https://github.com/klebster2/chargram-model)
+I built a chargram language model for Accelerated Natural Language Processing. Find it [here](https://github.com/klebster2/chargram-model).
 
-## vim
+## myvimrc
 
-[vimrc](https://github.com/klebster2/myvimrc)
+See myvimrc project [here](https://github.com/klebster2/myvimrc)
+
+## dotfiles
+
+See dotfiles project [here](https://github.com/klebster2/dotfiles)
+
