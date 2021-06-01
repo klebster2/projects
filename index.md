@@ -2,13 +2,19 @@
 
 ## language modelling
 
-I built a chargram language model for Accelerated Natural Language Processing. Find it [here](https://github.com/klebster2/chargram-model).
+I built a chargram language model with a classmate for Accelerated Natural Language Processing. Find that project [here](https://github.com/klebster2/chargram-model).
+
+A sped up example of generation is shown below:
+
+![gutenberg_example](https://github.com/klebster2/perplexity-toolkit/blob/master/gutenberg_example.gif "An example of generating characters using a 10-gram gutenberg model")
 
 ## myvimrc
 
-See myvimrc project [here](https://github.com/klebster2/myvimrc)
+I <3 vim. See myvimrc project [here](https://github.com/klebster2/myvimrc)
+
+![https://en.wikipedia.org/wiki/Vim_(text_editor)#/media/File:Vimlogo.svg]
 
 ## dotfiles
 
-See dotfiles project [here](https://github.com/klebster2/dotfiles)
+I use customly configured dotfiles. See my dotfiles project [here](https://github.com/klebster2/dotfiles)
 
