@@ -12,7 +12,7 @@ A sped up example of generation is shown below:
 
 I <3 vim. See myvimrc project [here](https://github.com/klebster2/myvimrc)
 
-![Vim logo](https://en.wikipedia.org/wiki/Vim_(text_editor)#/media/File:Vimlogo.svg)
+![Vim logo](https://images.wikia.com/vim/images/8/89/Wiki-wordmark.png "")
 
 ## dotfiles
 
