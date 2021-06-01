@@ -2,7 +2,7 @@
 
 ## Character Language Modelling
 
-I built a chargram language model with a classmate for the Accelerated Natural Language Processing course we had at the University of Edinburgh in the Fall of 2018. 
+I built a chargram language model with a partner for coursework in the Accelerated Natural Language Processing course we had at the University of Edinburgh in Fall 2018. 
 
 Find that project [here](https://github.com/klebster2/chargram-model).
 
