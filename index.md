@@ -5,7 +5,10 @@ I use <img src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transp
 See my vimrc project [here](https://github.com/klebster2/vimrc)
 
 ## My dotfiles
-I like dotfiles. See my dotfiles project [here](https://github.com/klebster2/dotfiles)
+I like dotfiles. See my dotfiles project [here](https://github.com/klebster2/dotfiles).
+
+## Opensub downloader
+Sometimes it's handy to have open source data to use for language modelling. A simple downloader I created for OpenSub can be found [here](https://github.com/klebster2/BashDownloadOpenSubTextFormat).
 
 # Old Projects
 
