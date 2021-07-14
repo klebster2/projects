@@ -1,16 +1,16 @@
-# Some Projects
+# My Current Projects
+
+## My vimrc project
+I use <img src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png" alt="drawing" width="5%"/> a lot.
+See my vimrc project [here](https://github.com/klebster2/vimrc)
+
+## My dotfiles
+I like dotfiles. See my dotfiles project [here](https://github.com/klebster2/dotfiles)
+
+# Old Projects
 
 ## Character Language Modelling
-
-I built a chargram language model with a partner for coursework in the Accelerated Natural Language Processing course we had at the University of Edinburgh in Fall 2018. 
+I built a chargram language model with a partner for coursework in the Accelerated Natural Language Processing course we had at the University of Edinburgh in Fall 2018. It can be used to filter and score sentences that may contain unknown languages by using perplexity.
 
 Find that project [here](https://github.com/klebster2/chargram-model).
 
-## myvimrc
-I use <img src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png" alt="drawing" width="3%"/> a lot.
-
-See myvimrc project [here](https://github.com/klebster2/myvimrc)
-
-## dotfiles
-
-I use customly configured dotfiles. See my dotfiles project [here](https://github.com/klebster2/dotfiles)
