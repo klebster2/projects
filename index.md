@@ -1,7 +1,7 @@
 # My Current Projects
 
 ## My vimrc project
-I use <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/492px-Neovim-mark.svg.png" alt="drawing" width="2%"/> (aka NeoVim) a lot.
+I use <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/492px-Neovim-mark.svg.png" alt="drawing" width="2%"/>eoVim a lot.
 See my vimrc project [here](https://github.com/klebster2/vimrc)
 
 ## My dotfiles
